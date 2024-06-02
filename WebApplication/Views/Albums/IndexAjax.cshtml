@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "IndexAjax";
+}
+
+<h2>IndexAjax</h2>
+
+<table id="tablata">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Price</td>
+            <td>Cover</td>
+            <td>Title</td>
+        </tr>
+    </thead>
+</table>
+
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $("#tablata").DataTable({
+                ajax: {
+                    url: "/api/Albums1",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "Name",
+                        render: function (settings, type, album) {
+                            return "<a href='/Albums/Details/" + album.Id + "'>" + album.Name + "</a>"
+                        }
+                    },
+                    { data: "Price" },
+                    {
+                        data: "AlbumArtUrl",
+                        render: function (settings, type, album) {
+                            return "<img src='" + album.AlbumArtUrl + "'/>"
+                        }
+                    },
+                    { data: "Title" },
+                ]
+            })
+        })
+    </script>
+}

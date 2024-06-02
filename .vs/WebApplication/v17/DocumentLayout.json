@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\views\\albums\\indexajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\albums\\indexajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\controllers\\albums1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\albums1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\views\\account\\addroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\account\\addroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\views\\stores\\addalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\stores\\addalbum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|c:\\users\\ivanp\\desktop\\finki\\semestar 4\\it\\kol2\\webapplication\\webapplication\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\webapplication\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\webapplication\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21A821-ED50-4D6E-A50A-027ACDACB281}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexAjax.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Albums\\IndexAjax.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Albums\\IndexAjax.cshtml",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Albums\\IndexAjax.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Albums\\IndexAjax.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:37:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Albums1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\Albums1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\Albums1Controller.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\Albums1Controller.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\Albums1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:33:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumsController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\AlbumsController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\AlbumsController.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\AlbumsController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\AlbumsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:30:10.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:24:27.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebApplication\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:23:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRoleToUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Account\\AddRoleToUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Account\\AddRoleToUser.cshtml",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Account\\AddRoleToUser.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Account\\AddRoleToUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:21:25.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:13:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddAlbum.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Stores\\AddAlbum.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Stores\\AddAlbum.cshtml",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Views\\Stores\\AddAlbum.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Stores\\AddAlbum.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T12:01:54.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\StoresController.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\StoresController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:59:33.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:46:21.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Models\\Genre.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:29:39.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\ivanp\\Desktop\\finki\\Semestar 4\\IT\\kol2\\WebApplication\\WebApplication\\Models\\Artist.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:29:39.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
